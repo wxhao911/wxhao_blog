@@ -1,22 +1,22 @@
 # Site settings
-title: Hux Blog
-SEOTitle: 黄玄的博客 | Hux Blog
+title: Wxhao Blog
+SEOTitle: 吴嘉图的博客 | Wxhao Blog
 header-img: img/home-bg.jpg
 email: huxpro@gmail.com
-description: "关于前端与设计、黑客与画家 | 黄玄，Web & Mobile Lover，Front-End Engineer，UX Designer | 这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界。"
-keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, 前端, 设计, 产品, 肖玉, Lynn, 肖玉的男朋友"
-url: "http://huangxuan.me"              # your host, for absolute URL
+description: "关于WEB开发、极客与吃货 | 吴嘉图，Web & Mobile Love | 这里是 @Wxhao吴嘉图 的个人博客，你的梦想是什么?"
+keyword: "吴嘉图, Wxhao吴嘉图, Wxhao, @huxpro, 吴嘉图的博客, Wxhao Blog, 博客, 个人网站, 互联网, 后端, JAVA, 园园的老公"
+url: "http://blog.wxhao2.com"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
+weibo_username:     坑爹的吴嘉图
+zhihu_username:     坑爹的吴嘉图
+github_username:    wxhao911
 #twitter_username:  huxpro
-facebook_username:  huxpro
+facebook_username:  wxhao
 
 
 
@@ -68,7 +68,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "写写代码，做做设计，看看产品。世界那么大，我想去看看。"
+sidebar-about-description: "一枚天真无邪善良纯真的程序员欧巴."
 sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
