@@ -2,9 +2,9 @@
 title: Wxhao Blog
 SEOTitle: 吴嘉图的博客 | Wxhao Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
+email: wxhao911@vip.qq.com
 description: "关于WEB开发、极客与吃货 | 吴嘉图，Web & Mobile Love | 这里是 @Wxhao吴嘉图 的个人博客，你的梦想是什么?"
-keyword: "吴嘉图, Wxhao吴嘉图, Wxhao, @huxpro, 吴嘉图的博客, Wxhao Blog, 博客, 个人网站, 互联网, 后端, JAVA, 园园的老公"
+keyword: "吴嘉图, Wxhao吴嘉图, Wxhao, @wxhao, 吴嘉图的博客, Wxhao Blog, 博客, 个人网站, 互联网, 后端, JAVA, 园园的老公"
 url: "http://blog.wxhao2.com"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -13,10 +13,10 @@ baseurl: ""                             # for example, '/blog' if your blog host
 # SNS settings
 RSS: false
 weibo_username:     坑爹的吴嘉图
-zhihu_username:     坑爹的吴嘉图
+zhihu_username:     wxhao911
 github_username:    wxhao911
 #twitter_username:  huxpro
-facebook_username:  wxhao
+facebook_username:  wxh3211738
 
 
 
@@ -50,7 +50,7 @@ kramdown:
 #disqus_username: _your_disqus_short_name_
 
 # Duoshuo settings
-duoshuo_username: huxblog
+duoshuo_username: wxhaolog
 # Share component is depend on Comment so we can NOT use share only.
 duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
@@ -62,14 +62,14 @@ duoshuo_share: true                     # set to false if you want to use Commen
 ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+ga_domain: blog.wxhao2.com
 
 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "一枚天真无邪善良纯真的程序员欧巴."
-sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar-wxhao.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
