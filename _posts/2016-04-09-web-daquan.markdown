@@ -12,10 +12,24 @@ tags:
 ---
 
 ### jekyll 官网文档部分翻译
-	<a target="_blank" href="http://blog.csdn.net/maoxunxing/article/details/40479753">jekyll 官网文档部分翻译</a>
+	[jekyll 官网文档部分翻译](http://blog.csdn.net/maoxunxing/article/details/40479753)
 ###	如何利用GitHub建立个人博客：之一
-	<a target="_blank" href="http://my.oschina.net/nark/blog/116299">如何利用GitHub建立个人博客：之一</a>
+	[如何利用GitHub建立个人博客：之一](http://my.oschina.net/nark/blog/116299)
 ###	搭建一个免费的，无限流量的Blog----github Pages和Jekyll入门
-	<a target="_blank" href="http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html">搭建一个免费的，无限流量的Blog----github Pages和Jekyll入门</a>
+	[搭建一个免费的，无限流量的Blog----github Pages和Jekyll入门](http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html)
+	
+* 新一代 Apple TV 的 **tvOS**： 没有浏览器，也没有 webview。但是 JavaScript、XHR 和 DOM 可以通过一个叫做 TVML 的标记语言来使用
+* Apple Watch 的 **watchOS**：完全没有任何浏览器和 webview
+
+
+> **再注！** 由于原文写于 Apple 发布会之前，为了不让读者感到奇怪，笔者将会对文章进行适当改写与补充，以保证本文的连贯性
+
+```css
+/* iPad Air or iPad Mini */
+(device-width: 768px) and (width: 320px)
+/* iPad Pro */
+(device-width: 1024px) and (width: 320px)
+```
+
 	
 
