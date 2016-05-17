@@ -13,13 +13,13 @@ tags:
 ---
 
 ### jekyll 官网文档部分翻译
-	[jekyll 官网文档部分翻译](http://blog.csdn.net/maoxunxing/article/details/40479753)
+[jekyll 官网文档部分翻译](http://blog.csdn.net/maoxunxing/article/details/40479753)
 	
 ###	如何利用GitHub建立个人博客：之一
-	[如何利用GitHub建立个人博客：之一](http://my.oschina.net/nark/blog/116299)
+[如何利用GitHub建立个人博客：之一](http://my.oschina.net/nark/blog/116299)
 	
 ###	搭建一个免费的，无限流量的Blog----github Pages和Jekyll入门
-	[搭建一个免费的，无限流量的Blog----github Pages和Jekyll入门](http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html)
+[搭建一个免费的，无限流量的Blog----github Pages和Jekyll入门](http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html)
 	
 * 新一代 Apple TV 的 **tvOS**： 没有浏览器，也没有 webview。但是 JavaScript、XHR 和 DOM 可以通过一个叫做 TVML 的标记语言来使用
 * Apple Watch 的 **watchOS**：完全没有任何浏览器和 webview
