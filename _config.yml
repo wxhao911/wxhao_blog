@@ -3,7 +3,7 @@ title: Wxhao Blog
 SEOTitle: 吴嘉图的博客 | Wxhao Blog
 header-img: img/home-bg.jpg
 email: wxhao911@vip.qq.com
-description: "关于WEB开发、极客与吃货 | 吴嘉图，Web & Mobile Love | 这里是 @Wxhao吴嘉图 的个人博客，你的梦想是什么?"
+description: "关于WEB开发、吃货 | 吴嘉图，Web & Mobile Love | 这里是 @坑爹的吴嘉图 的个人博客，你的梦想是什么?"
 keyword: "吴嘉图, Wxhao吴嘉图, Wxhao, @wxhao, 吴嘉图的博客, Wxhao Blog, 博客, 个人网站, 互联网, 后端, JAVA, 园园的老公"
 url: "http://blog.wxhao2.com"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
@@ -15,7 +15,7 @@ RSS: false
 weibo_username:     wxhao911
 zhihu_username:     wxhao911
 github_username:    wxhao911
-#twitter_username:  huxpro
+#twitter_username:  wxhao911
 facebook_username:  wxh3211738
 
 
@@ -50,7 +50,7 @@ kramdown:
 #disqus_username: _your_disqus_short_name_
 
 # Duoshuo settings
-duoshuo_username: wxhaolog
+duoshuo_username: wxhao911
 # Share component is depend on Comment so we can NOT use share only.
 duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
@@ -82,31 +82,10 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 # Friends
 friends: [
     {
-        title: "前端外刊评论",
-        href: "http://qianduan.guru/"
+        title: "还是我的哈哈",
+        href: "http://www.walyy.com/"
     },{
-        title: "天镶的博客",
-        href: "http://lingyu.wang/"
-    },{
-        title: "Luke的自留地",
-        href: "http://hmqk1995.github.io"
-    },{
-        title: "Ebn's Blog",
-        href: "http://ebnbin.com/"
-    },{
-        title: "SmdCn's Blog",
-        href: "http://blog.smdcn.net"
-    },{
-        title: "解旻的博客",
-        href: "http://xieminis.me/"
-    },{
-        title: "DHong Say",
-        href: "http://dhong.co"
-    },{
-        title: "尹峰以为",
-        href: "http://ingf.github.io/"
-    },{
-        title: "前端神盾局",
-        href: "http://wepiaofei.github.io/blog/"
+        title: "原创的黄玄的博客",
+        href: "http://huangxuan.me/"
     }
 ]
