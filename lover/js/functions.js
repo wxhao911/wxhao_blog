@@ -29,13 +29,19 @@ $('#search_engine').change(function(){
 	}
 });
 
-$('#toyer').mouseout(function(){
-	$('#myzzilcc').hide(300);
-	$('#tools').show(300);
-	$('#wyymusic').show(300);
-});
-$('#toyer').mouseover(function(){
-	$('#myzzilcc').show(300);
-	$('#tools').hide(300);
-	$('#wyymusic').hide(300);
-});
+// $('#toyer').mouseout(function(){
+// 	$('#myzzilcc').hide(300);
+// 	$('#tools').show(300);
+// 	$('#wyymusic').show(300);
+// });
+// $('#toyer').mouseover(function(){
+// 	$('#myzzilcc').show(300);
+// 	$('#tools').hide(300);
+// 	$('#wyymusic').hide(300);
+// });
+
+var love=function(){
+	$('#myzzilcc').toggle(300);
+	$('#tools').toggle(300);
+	$('#wyymusic').toggle(300);
+}
