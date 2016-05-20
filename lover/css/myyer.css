@@ -356,3 +356,9 @@ video#bgvid {
 	background: url(http://7xqytu.com1.z0.glb.clouddn.com/sakura.png) no-repeat;
 	background-size: cover;
 }
+
+@media screen and (min-width:1200px){
+	.wxhao {
+		margin-right: 18%
+	}
+}
