@@ -12,7 +12,7 @@ header-img: "img/about-bg.jpg"
 </select>
 
 <!-- Chinese Version -->
-<div class="zh post-container">
+<div class="doc1 post-container">
 
     <!--copied from markdown -->
     <blockquote><p>写写代码，看看世界，体验生活。<br>
@@ -42,7 +42,7 @@ header-img: "img/about-bg.jpg"
 </div>
 
 <!-- English Version -->
-<div class="en post-container">
+<div class="doc2 post-container">
     <blockquote><p>Yet another Frontend Engineer. <br>
     Yet another Lifelong Designer.</p></blockquote>
 
@@ -73,36 +73,37 @@ header-img: "img/about-bg.jpg"
 <!-- Handle Language Change -->
 <script type="text/javascript">
     // get nodes
-    var $zh = document.querySelector(".zh");
-    var $en = document.querySelector(".en");
+    var $doc1 = document.querySelector(".doc1");
+    var $doc2 = document.querySelector(".doc2");
     var $select = document.querySelector("select");
-
+    var $allDoc = document.querySelector("post-container");
     // bind hashchange event
     window.addEventListener('hashchange', _render);
 
     // handle render
     function _render(){
         var _hash = window.location.hash;
+        $allDoc.style.display="none";
         // en
-        if(_hash == "#en"){
+        if(_hash == "doc1"){
             $select.selectedIndex = 1;
-            $en.style.display = "block";
-            $zh.style.display = "none";
+            $doc1.style.display = "block";
+          //  $doc2.style.display = "none";
         // zh by default
-        }else{
+        }else if(_hash == "doc2"){
             // not trigger onChange, otherwise cause a loop call.
             $select.selectedIndex = 0;
-            $zh.style.display = "block";
-            $en.style.display = "none";
+            $doc1.style.display = "block";
+          //  $doc2.style.display = "none";
         }
     }
 
     // handle select change
     function onLanChange(index){
         if(index == 0){
-            window.location.hash = "#zh"
-        }else{
-            window.location.hash = "#en"
+            window.location.hash = "doc1"
+        }else if(index == 1){
+            window.location.hash = "doc2"
         }
     }
 
