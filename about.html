@@ -7,10 +7,10 @@ header-img: "img/about-bg.jpg"
 
 <!-- Language Selector -->
 <select onchange= "onLanChange(this.options[this.options.selectedIndex].value)">
-    <option value="0" selected> resume </option>
-    <option value="1"> self-evaluation </option>
-    <option value="2"> Work </option>
-    <option value="3"> Shcool </option>
+    <option value="0" selected> 简介 resume </option>
+    <option value="1"> 自我评价 self-evaluation </option>
+    <option value="2"> 工作 Work </option>
+    <option value="3"> 学校生活 Shcool </option>
 </select>
 
 <!-- Chinese Version -->
@@ -151,7 +151,7 @@ header-img: "img/about-bg.jpg"
     var $doc2 = $(".doc2");
     var $doc3 = $(".doc3");
     var $select = $("select");
-    var $allDoc = (".post-container");
+    var $allDoc = $(".post-container");
     // bind hashchange event
     window.addEventListener('hashchange', _render);
 
