@@ -89,4 +89,4 @@ Blog的世界有一种无形的礼仪、风格和用语。熟悉它们，会使�
 ```
 
 
-![Welcome](http://blog.wxhao2.com/img/20150603-world-window-wxhao.jpg)
+![Welcome](http://blog.wxhao2.com/img/in-post/20150603-world-window-wxhao.jpg)
