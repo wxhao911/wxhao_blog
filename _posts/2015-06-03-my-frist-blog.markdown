@@ -4,7 +4,7 @@ title:      "我的第一篇博客"
 subtitle:   "欢迎大家来到我的博客~~~"
 date:       2015-06-03
 author:     "Wxhao"
-header-img: "img/post-bg/20150603-world-window-wxhao.jpg"
+header-img: "img/post-bg/img/post-bg/20150603-hello-blog.jpg"
 catalog:    true
 tags:
     - Lift
@@ -51,7 +51,7 @@ Blog的世界有一种无形的礼仪、风格和用语。熟悉它们，会使�
 > **加粗灰色斜体**灰色斜体
 ```
 
-3. ### 标题
+3. 标题
 ```css
 //#越多字越小
 ###
@@ -89,4 +89,4 @@ Blog的世界有一种无形的礼仪、风格和用语。熟悉它们，会使�
 ```
 
 
-![Welcome](http://blog.wxhao2.com/img/post-bg-alitrip.jpg)
+![Welcome](http://blog.wxhao2.com/img/20150603-world-window-wxhao.jpg)
