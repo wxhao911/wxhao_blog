@@ -2,7 +2,7 @@
 layout:     post
 title:      "我的第一篇博客"
 subtitle:   "欢迎大家来到我的博客~~~"
-date:       2015-06-03
+date:       2013-06-03
 author:     "Wxhao"
 header-img: "img/post-bg/20150603-hello-blog.jpg"
 catalog:    true
