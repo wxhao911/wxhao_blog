@@ -2,7 +2,7 @@
 layout:     post
 title:      "markdown基本语法"
 subtitle:   "博客的旅程从此开始"
-date:       2013-06-06
+date:       2013-06-05
 author:     "Wxhao"
 header-img: "img/post-bg/20150603-hello-blog.jpg"
 catalog:    true
