@@ -3,8 +3,8 @@ title: Wxhao Blog
 SEOTitle: 吴嘉图的博客 | Wxhao Blog
 header-img: img/home-bg.jpg
 email: wxhao911@vip.qq.com
-description: "关于WEB开发、吃货 | 吴嘉图，Web & Mobile Love | 这里是 @坑爹的吴嘉图 的个人博客，你的梦想是什么?"
-keyword: "吴嘉图, Wxhao吴嘉图, Wxhao, @wxhao, 吴嘉图的博客, Wxhao Blog, 博客, 个人网站, 互联网, 后端, JAVA, 园园的老公"
+description: "JAVA开发 | 吴嘉图 | 这里是 @坑爹的吴嘉图 的个人博客，你的梦想是什么? "
+keyword: "吴嘉图, Wxhao吴嘉图, Wxhao, @wxhao, 吴嘉图的博客, Wxhao Blog, 博客, 个人网站, 互联网, 后端, JAVA"
 url: "http://blog.wxhao2.com"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 

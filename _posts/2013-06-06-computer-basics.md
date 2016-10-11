@@ -1,10 +1,10 @@
 ---
 layout:     post
 title:      "计算机基础"
-subtitle:   "不归路的开始"
+subtitle:   "01010010 10111000"
 date:       2013-06-06
 author:     "Wxhao"
-header-img: "img/post-bg/20150603-hello-blog.jpg"
+header-img: "img/post-bg/computer.jpg"
 catalog:    true
 tags:
     - 基础知识 
@@ -86,6 +86,9 @@ tags:
 	* d:Ctrl+X	剪切
 	* e:Ctrl+Z	撤销
 	* f:Ctrl+S	保存
+
+![标题](http://wxhao2.duapp.com/blog/post-in/20130606/jianpan.jpg)
+
 
 ------
 

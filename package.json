@@ -3,12 +3,12 @@
     "title": "Wxhao Blog",
     "author": "Wxhao <wxhao911@vip.qq.com>",
     "version": "1.6.0",
-    "homepage": "http://huxpro.github.io",
+    "homepage": "https://github.com/wxhao911/wxhao_blog",
     "repository": {
         "type": "git",
-        "url": "https://github.com/Huxpro/huxpro.github.io"
+        "url": "https://github.com/wxhao911/wxhao_blog"
     },
-    "bugs": "https://github.com/Huxpro/huxpro.github.io/issues",
+    "bugs": "https://github.com/wxhao911/wxhao_blog/issues",
     "devDependencies": {
         "grunt": "~0.4.5",
         "grunt-contrib-less": "~0.11.4",

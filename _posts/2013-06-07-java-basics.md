@@ -1,10 +1,10 @@
 ---
 layout:     post
-title:      "Java语言基础"
+title:      "学习Java语言前的准备"
 subtitle:   "HelloWorld"
 date:       2013-06-07
 author:     "Wxhao"
-header-img: "img/post-bg/20150603-hello-blog.jpg"
+header-img: "img/post-bg/java.jpg"
 catalog:    true
 tags:
     - 基础知识 
@@ -102,6 +102,8 @@ tags:
 		* D:\develop\Java\jdk1.7.0_72\bin
 	* b:然后分别输入javac和java，如果正常显示一些内容，说明安装成功
 
+[JDK1.7_x86_百度云下载](http://pan.baidu.com/s/1mhYvmp6)
+
 ------
 
 ### 5.JDK安装路径下的目录解释
@@ -130,7 +132,8 @@ tags:
 * C:写输出语句
 * D:Java程序开发运行与工作原理
 * E:编译和运行程序
-```java    
+
+```    
 class HelloWorld {
 	public static void main(String[] args) {
 		System.out.println("HelloWorld");
@@ -231,6 +234,8 @@ class HelloWorld {
 * D:关键字的注意事项
 	* goto和const作为保留字存在,目前并不使用,类似Editplus这样的高级记事本,针对关键字有特殊的颜色标记，非常直观 
 
+![关键字](http://wxhao2.duapp.com/blog/post-in/20130607/guanjianzi.png)
+
 ------
 
 ### 14.标识符的概述和组成规则
@@ -267,3 +272,27 @@ class HelloWorld {
     * 不能以数字开头
     * 不能是JAVA关键字
     * 区分大小写
+
+### 16.常量的概述和使用
+* A:什么是常量
+	* 在程序执行的过程中其值不可以发生改变 
+* B:Java中常量的分类
+	* 字面值常量
+	* 自定义常量
+* C:字面值常量的分类
+	* 字符串常量	用双引号括起来的内容
+	* 整数常量		所有整数
+	* 小数常量		所有小数
+	* 字符常量		用单引号括起来的内容,里面只能放单个数字,单个字母或单个符号
+	* 布尔常量		较为特殊，只有true和false
+	* 空常量		    null
+
+```
+System.out.print("abc");//字符串常量
+System.out.print(123);//整数常量
+System.out.print(12.3);//小数常量
+System.out.print('a');//字符常量(''中必须放单个数字/字母/符号,不能为空)
+System.out.print(ture);//布尔常量(true/false)
+```
+	
+---
