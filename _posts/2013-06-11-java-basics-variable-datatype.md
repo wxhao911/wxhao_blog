@@ -9,6 +9,7 @@ catalog:    true
 tags:
     - 基础知识 
     - java
+    - JAVASE
 ---
 
 ### 1.变量的概述及格式
@@ -102,7 +103,7 @@ class test {
 ---
 
 ### 5.数据类型转换之隐式转换
-* A:案例演示
+* A:代码演示
 	* a:int + int
 	* b:byte + int 
 
