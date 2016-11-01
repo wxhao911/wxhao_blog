@@ -7,7 +7,7 @@ description: "JAVA开发 | 吴嘉图 | 这里是 @坑爹的吴嘉图 的个人�
 keyword: "吴嘉图, Wxhao吴嘉图, Wxhao, @wxhao, 吴嘉图的博客, Wxhao Blog, 博客, 个人网站, 互联网, 后端, JAVA"
 url: "http://blog.wxhao2.com"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
-
+imgwall_url : "http://wxhao2.duapp.com/blog"		#图墙地址
 
 
 # SNS settings

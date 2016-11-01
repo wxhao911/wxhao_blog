@@ -87,7 +87,7 @@ public class Demo1_Array {
 }
 ```
 
-![数组存储引用数据类型](http://wxhao2.duapp.com/blog/post-in/20130820/szccyyle.png)
+![数组存储引用数据类型]({{ site.imgwall_url }}/post-in/20130820/szccyyle.png)
 
 ### 集合的由来及集合继承体系图 
 * A:集合的由来
